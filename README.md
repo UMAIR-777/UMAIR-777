@@ -1,47 +1,20 @@
-## Hi there 👋
-AI Software Developer
+Hi, I’m Muhammad Umair
 
-I specialize in building AI-powered workflow automation and agentic systems to solve real-world business problems. My primary focus is on voice agents for lead qualification, intelligent automation pipelines, and scalable AI systems.
+AI Software Developer | Agentic AI & Workflow Automation
 
-What I Do
+I build AI-powered workflow automation and agentic systems for real business problems.
+My focus is on voice agents for lead qualification, intelligent pipelines, and scalable AI solutions.
+I design systems that move from prototype to production with clarity and reliability.
 
-Develop agentic AI systems for business process automation
+What I Solve
 
-Build AI voice agents for lead qualification and customer interaction
+Automating business workflows using agentic AI systems
 
-Design workflow orchestration using graph-based and RAG architectures
+Building voice AI agents for lead qualification and customer interaction
 
-Deliver production-ready AI solutions for business use cases
+Designing Graph-based RAG pipelines for decision-making
 
-Tech Stack
-
-Programming & Data: Python, Pandas, NumPy
-
-Deep Learning: PyTorch
-
-LLM Frameworks: LangChain
-
-AI Architectures: Graph RAG, Agentic Systems
-
-Models: LLMs, VLMs, Multimodal Models
-
-Tools & DevOps
-
-Version Control: Git, GitHub
-
-Containerization: Docker
-
-DevOps & Deployment: CI/CD basics, API-based services
-
-Interests
-
-AI-driven business automation
-
-Voice AI and conversational agents
-
-Scalable and explainable AI systems
--->
-### Tech Stack & Tools
+Delivering production-ready AI solutions for business use cases
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
