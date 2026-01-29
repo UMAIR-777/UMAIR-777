@@ -4,14 +4,14 @@ Hi, I’m Muhammad Umair
 AI Software Developer | Agentic AI & Workflow Automation
 
 I build AI-powered workflow automation and agentic systems for real business problems.
-My focus is on voice agents for lead qualification, intelligent pipelines, and scalable AI solutions.
+My focus is on voice agents for multple domains, intelligent pipelines, and scalable AI solutions.
 I design systems that move from prototype to production with clarity and reliability.
 
 What I Solve
 
 Automating business workflows using agentic AI systems
 
-Building voice AI agents for lead qualification and customer interaction
+Building voice AI agents for multiple domains
 
 Designing Graph-based RAG pipelines for decision-making
 
