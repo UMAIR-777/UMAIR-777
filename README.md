@@ -1,17 +1,17 @@
 #
 Hi, I’m Muhammad Umair
 
-AI Software Developer | Agentic AI & Workflow Automation
+AI Engineer |Aspiring researcher in Neuro-Symbolic AI| 
 
+My research interest lie at implementing a neuro-symbolic AI framework to DL and RL and transforming the pattern-matching model into a reasoning model for transparency and interpretability.
 I built AI-powered workflow automation and agentic systems for real business problems.
-My focus is on llm resoning, Graph RAG, and building voice agents for multple domains, intelligent pipelines, and scalable AI solutions.
-I design systems that move from prototype to production with clarity and reliability.
+I design systems that move from prototype to production with clarity and reliability. 
 
 What I Solve
 
 Automating business workflows using agentic AI systems
 
-Building voice AI agents for multiple domains
+Build ML models to solve real world business problems
 
 Designing Graph-based RAG pipelines for decision-making
 
