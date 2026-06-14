@@ -1,21 +1,20 @@
 #
 Hi, I’m Muhammad Umair
 
-AI Engineer |Aspiring researcher in Neuro-Symbolic AI| 
+AI Engineer |Delivering production-ready data driven solutions for business use cases
+ | 
 
-My research interest lie at implementing a neuro-symbolic AI framework to DL and RL and transforming the pattern-matching model into a reasoning model for transparency and interpretability.
-I built AI-powered workflow automation and agentic systems for real business problems.
+My research interest lie at implementing a neuro-symbolic AI framework to data driven models and transforming the pattern-matching model into a reasoning model for transparency and interpretability.
 I design systems that move from prototype to production with clarity and reliability. 
+I built AI-powered workflow automation and agentic systems for real business problems.
 
 What I Solve
+Build ML models to solve real world business problems
 
 Automating business workflows using agentic AI systems
 
-Build ML models to solve real world business problems
-
 Designing Graph-based RAG pipelines for decision-making
 
-Delivering production-ready AI solutions for business use cases
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
