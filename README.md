@@ -1,19 +1,18 @@
 #
 Hi, I’m Muhammad Umair
 
-AI Engineer |Delivering production-ready data driven solutions for business use cases
- | 
+An AI Engineer with 2+ years of industry experience in Data Analytics and Machine Learning. 
 
-My research interest lie at implementing a neuro-symbolic AI framework to data driven models and transforming the pattern-matching model into a reasoning model for transparency and interpretability.
 I design systems that move from prototype to production with clarity and reliability. 
-I built AI-powered workflow automation and agentic systems for real business problems.
 
-What I Solve
 Build ML models to solve real world business problems
+
+Analyze e-commerce funnels to identify drop-offs across visits, product views, carts, and purchases
+
+Analyze SaaS funnels to improve conversion from signup → activation → paid
 
 Automating business workflows using agentic AI systems
 
-Designing Graph-based RAG pipelines for decision-making
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
