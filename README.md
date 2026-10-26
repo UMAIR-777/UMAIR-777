@@ -3,7 +3,7 @@ Hi, I’m Muhammad Umair
 
 An AI Engineer with 2+ years of industry experience in Data Analytics and Machine Learning. 
 
-I design systems that move from prototype to production with clarity and reliability. 
+I design AI systems using Neuro symbolic framework that can mimic human decsion making and reasoning, the purpose is move from prototype to production with clarity and reliability. 
 
 Build ML models to solve real world business problems
 
